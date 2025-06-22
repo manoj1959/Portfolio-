@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Manoj Kumar Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">ManuPortfolio</div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Skills</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <a href="#" class="btn">Hire Me</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="left">
+      <p class="tag">Pharma Professional</p>
+      <h1>Hi! I Am <span>Manoj Kumar</span></h1>
+      <p class="desc">
+        Capsule Filling Specialist | Best Operator Award Winner
+      </p>
+      <div class="buttons">
+        <a href="#" class="btn">Let's Talk</a>
+        <a href="#" class="btn-outline">Portfolio</a>
+      </div>
+      <div class="icons">
+        <a href="#"><img src="linkedin.png" alt="LinkedIn" /></a>
+        <a href="#"><img src="github.png" alt="GitHub" /></a>
+        <a href="#"><img src="email.png" alt="Email" /></a>
+      </div>
+    </div>
+    <div class="right">
+      <img src="manu-photo.png" alt="Manoj Kumar Photo" class="profile-pic" />
+      <div class="badge">🏆 Best Operator Award</div>
+    </div>
+  </section>
+</body>
+</html>
