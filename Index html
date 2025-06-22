@@ -31,11 +31,6 @@
         <a href="#" class="btn">Let's Talk</a>
         <a href="#" class="btn-outline">Portfolio</a>
       </div>
-      <div class="icons">
-        <a href="#"><img src="linkedin.png" alt="LinkedIn" /></a>
-        <a href="#"><img src="github.png" alt="GitHub" /></a>
-        <a href="#"><img src="email.png" alt="Email" /></a>
-      </div>
     </div>
     <div class="right">
       <img src="manu-photo.png" alt="Manoj Kumar Photo" class="profile-pic" />
